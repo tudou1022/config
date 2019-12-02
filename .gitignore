@@ -1,4 +1,4 @@
-本地
-本地2
-服务器
-.gitignore.orig
+test: 本地
+test2: 本地2
+test3: 服务器
+test4: .gitignore.orig
